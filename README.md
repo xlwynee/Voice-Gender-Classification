@@ -20,10 +20,10 @@ My main contribution was focused on **data preprocessing, feature engineering, a
 ```
 DLProject/
 │
-├── DLProject.ipynb       # Main notebook (Colab / Jupyter)
+├── dlproject.ipynb       # Main notebook (Colab / Jupyter)
 ├── dlproject.py          # Python script for optional local run
 ├── requirements.txt      # Dependencies
-├── results/              # Trained models and outputs
+├── images/               # Output
 └── README.md             # Project documentation
 ```
 
@@ -41,7 +41,7 @@ pip install -r requirements.txt
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/DLProject.git
+   git clone https://github.com/<xlwynee>/Voice-Gender-Classification.git
    cd DLProject
    ```
 2. Run the notebook in Jupyter/Colab (main workflow).  
@@ -49,6 +49,13 @@ pip install -r requirements.txt
    ```bash
    python dlproject.py
    ```
+
+---
+
+## Demo
+Below is an example output visualization from the project:
+
+![Demo](images/demo.png)
 
 ---
 
