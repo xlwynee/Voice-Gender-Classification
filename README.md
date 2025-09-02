@@ -42,7 +42,7 @@ pip install -r requirements.txt
 1. Clone the repository:
    ```bash
    git clone https://github.com/<xlwynee>/Voice-Gender-Classification.git
-   cd DLProject
+   cd Voice-Gender-Classification
    ```
 2. Run the notebook in Jupyter/Colab (main workflow).  
 3. (Optional) Run the Python script:
